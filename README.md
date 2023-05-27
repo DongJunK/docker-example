@@ -4,9 +4,9 @@
 https://kimdongjun.tistory.com/49
 
 
-블로그에 Docker로 스프링 부트 서버 띄우는 방법을 작성해두었습니다.
+블로그에 Docker로 스프링 부트 서버 띄우는 방법을 정리해두었습니다.
 
-아래에 해당 레포지토리를 clone 받아 빠르게 Docker로 Spring Boot 서버를 띄울 수 있도록 Quick Start를 작성해두겠습니다.
+아래의 Quick Start를 통해 빠르게 Docker로 스프링 부트 서버를 띄울 수 있습니다.
 
 ## Quick Start
 ### Jar 파일 생성
